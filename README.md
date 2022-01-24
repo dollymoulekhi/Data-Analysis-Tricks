@@ -5,11 +5,13 @@ Doing data analysis easily
 ## 1. Set Max Number of Rows
 
 `pd.options.display.max_rows`
+
 `pd.options.display.max_rows = 100`
 
 ## 2. Set Max Number of Columns
 
 `pd.options.display.max_columns`
+
 `pd.options.display.max_columns = 50`
 
 ## 3. Set Max Width of Cell
@@ -22,11 +24,13 @@ By default, Pandas only display content in a cell with a maximum width of 50. Th
 `pd.options.display.max_info_columns`
 
 `pd.options.display.max_info_columns = 150`
+
 `df.info()`
 
 ## 5. Set Display Precision
 
 `pd.options.display.precision`
+
 `pd.options.display.precision = 15`
 
 ## 6. Set Decimal Format

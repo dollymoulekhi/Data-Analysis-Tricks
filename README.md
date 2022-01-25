@@ -33,6 +33,8 @@ By default, Pandas only display content in a cell with a maximum width of 50. Th
 
 `pd.options.display.precision = 15`
 
+**Pandas profiling and D-tale**
+
 ## 6. Set Decimal Format
 
 `pd.options.display.float_format = '{:.2f}%'.format`

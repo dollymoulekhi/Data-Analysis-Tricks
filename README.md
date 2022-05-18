@@ -39,3 +39,8 @@ By default, Pandas only display content in a cell with a maximum width of 50. Th
 
 `pd.options.display.float_format = '{:.2f}%'.format`
 
+
+## How to check for errors:
+
+
+`# import pdb; pdb.set_trace()`
